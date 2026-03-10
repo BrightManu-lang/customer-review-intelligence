@@ -1,4 +1,4 @@
-## Customer Review Intelligence Platform
+# Customer Review Intelligence Platform
 A full-stack NLP application for analyzing customer feedback through sentiment classification, semantic search, complaint theme discovery, and evidence-backed summarization.
 
 ## Overview
