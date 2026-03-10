@@ -1,7 +1,7 @@
-## Customer Review Intelligence Platform
+# Customer Review Intelligence Platform
 A full-stack NLP application for analyzing customer feedback through sentiment classification, semantic search, complaint theme discovery, and evidence-backed summarization.
 
-# Overview
+## Overview
 This project turns raw customer reviews into actionable insights using modern natural language processing techniques. It combines transformer-based sentiment analysis, semantic similarity search, topic modeling, and summarization inside an interactive Gradio dashboard.
 
 The platform is designed to help users explore customer pain points, identify recurring complaint themes, search reviews by meaning instead of exact keywords, and generate summaries supported by real review evidence.
