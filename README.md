@@ -1,4 +1,4 @@
-# Customer Review Intelligence Platform
+## Customer Review Intelligence Platform
 A full-stack NLP application for analyzing customer feedback through sentiment classification, semantic search, complaint theme discovery, and evidence-backed summarization.
 
 ## Overview
@@ -13,8 +13,6 @@ The platform is designed to help users explore customer pain points, identify re
 - **Evidence-Backed Summaries** – Generates summaries supported by relevant reviews  
 - **Interactive Dashboard** – Built with Gradio for easy exploration
 
----
-
 ## Tech Stack
 
 - Python  
@@ -26,8 +24,6 @@ The platform is designed to help users explore customer pain points, identify re
 - Matplotlib
 - Pandas
 
----
-
 ## Live Demo
 Hugging Face Space  
 https://huggingface.co/spaces/BrightManu/customer-review-intelligence  
@@ -35,14 +31,10 @@ https://huggingface.co/spaces/BrightManu/customer-review-intelligence
 Sentiment Model  
 https://huggingface.co/BrightManu/customer-review-sentiment  
 
----
-
 ## Running the App
 Clone the repository and install dependencies.
 `pip install -r requirements.txt`
 `python app/app.py`
-
----
 
 ## Use Cases
 - Understanding customer complaints  
